@@ -1,0 +1,14 @@
+2048 is a single-player sliding block puzzle game built using HTML , CSS and Javascript. The 
+object is to combine tiles with the same numbers by moving them across a 4X4 grid using arrow keys.
+When two tiles with the same numbers collide they merge into one with a doubled value.
+The goal is to reach the tile numbered 2048.  This project helps reinforce understanding of DOM 
+manipulation
+
+This is just the simple game with implementation in HTML , CSS and Javascript...
+
+
+
+Created By -> Luv Tomar
+Uni Roll No -> 2315001274
+GLA , University
+Mathura
